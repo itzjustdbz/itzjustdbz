@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @itzjustdbz I'm 23 years old, Born on October 27, 2000
+- 👋 Hi, I’m @itzjustdbz I'm 24 years old, Born on October 27, 2000
 - 👀 I’m interested in ... Data Analysis. I'm certified as a Google Data Analytics
-- 🌱 I’m currently learning ... cybersecurity 
+- 🌱 I’m currently learning ... network engineering 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... dbzcode11@gmail.com
 - I love to read mangas like Jujutsu Kaisen and Black Clover and watch anime.
